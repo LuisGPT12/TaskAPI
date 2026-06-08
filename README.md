@@ -96,7 +96,7 @@ Now listening on: https://localhost:7042
 
 Importa la colección de Postman incluida para tener todos los endpoints preconfigurados y listos para usar.
 
-> 📎 **https://luisgpt12-4073251.postman.co/workspace/Luis-Monterrosa's-Workspace~e437b45e-a622-4535-85c7-9d9a0775d5d5/collection/54272267-9be7661d-20db-43d4-94b3-692a3d44251f?action=share&source=copy-link&creator=54272267**
+> 📎 **https://documenter.getpostman.com/view/54272267/2sBXwqrAcT**
 
 ---
 
